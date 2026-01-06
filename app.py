@@ -28,7 +28,7 @@ st.set_page_config(
 )
 
 st.title("🏔️ GM SOTA Activations")
-
+st.caption("👈 Change filters in the sidebar to see different years and hills")
 # ----------------------
 # Data loading
 # ----------------------
