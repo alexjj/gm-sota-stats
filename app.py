@@ -34,7 +34,7 @@ st.caption("👈 Change filters in the sidebar to see different years and hills"
 # ----------------------
 
 @st.cache_data
-def load_json(path: Path):
+def load_json(path: Path, last_modified: float):
     with path.open("r", encoding="utf-8") as f:
         return json.load(f)
 
@@ -73,11 +73,12 @@ def build_activation_dataframe(data):
 # Load all data
 # ----------------------
 
-raw_data = load_json(DATA_FILE)
+last_modified = DATA_FILE.stat().st_mtime
+raw_data = load_json(DATA_FILE, last_modified)
 df = build_activation_dataframe(raw_data)
 
-munros = pd.DataFrame(load_json(MUNROS_FILE))
-non_sota_munros = pd.DataFrame(load_json(NON_SOTA_MUNROS_FILE))
+munros = pd.DataFrame(load_json(MUNROS_FILE, last_modified))
+non_sota_munros = pd.DataFrame(load_json(NON_SOTA_MUNROS_FILE, last_modified))
 corbetts = load_csv(CORBETTS_FILE)
 cairngorms = load_csv(CAIRNGORMS_FILE)
 
