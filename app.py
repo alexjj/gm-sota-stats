@@ -198,6 +198,10 @@ elif hillset == "Corbetts":
 elif hillset == "Cairngorms National Park":
     summits_df = cairngorms.copy()
 
+hillset_codes = set(summits_df["summitCode"].dropna())
+
+df_hillset = df[df["summitCode"].isin(hillset_codes)]
+
 # ----------------------
 # Activator summary table
 # ----------------------
@@ -361,7 +365,7 @@ else:
 st.header("Historical Annual Data")
 
 historical = (
-    df
+    df_hillset
     .drop_duplicates(subset=["userId", "summitCode", "year"])
     .groupby(["year", "Callsign"])
     .size()
@@ -385,7 +389,7 @@ with col1:
 
 with col2:
     yearly_totals = (
-        df
+        df_hillset
         .drop_duplicates(subset=["userId", "summitCode", "year"])
         .groupby("year")
         .size()
