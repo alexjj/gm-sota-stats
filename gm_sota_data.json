@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-09T04:19:44+00:00Z",
+  "generated_at": "2026-02-10T04:26:12+00:00Z",
   "association": "GM",
   "regions": {
     "CS": {
@@ -29654,9 +29654,9 @@
             "points": 2,
             "altM": 533,
             "altFt": 1749,
-            "activationCount": 24,
-            "activationCall": "GM4JXP/P",
-            "activationDate": "2025-11-02T00:00:00Z",
+            "activationCount": 25,
+            "activationCall": "GM5ALX/P",
+            "activationDate": "2026-02-09T00:00:00Z",
             "gridRef1": "NJ 503163",
             "gridRef2": "",
             "locator": "IO87of",
@@ -29672,6 +29672,14 @@
             "tagCount": 0
           },
           "activations": [
+            {
+              "id": 1166088,
+              "userId": 94131,
+              "activationDate": "2026-02-09T00:00:00Z",
+              "ownCallsign": "GM5ALX/P",
+              "qsos": 32,
+              "Callsign": "GM5ALX"
+            },
             {
               "id": 1138960,
               "userId": 44920,
@@ -98352,9 +98360,9 @@
             "points": 2,
             "altM": 501,
             "altFt": 1644,
-            "activationCount": 74,
-            "activationCall": "MM7MOX/P",
-            "activationDate": "2026-01-08T00:00:00Z",
+            "activationCount": 75,
+            "activationCall": "MM7TXZ",
+            "activationDate": "2026-02-07T00:00:00Z",
             "gridRef1": "NT 188631",
             "gridRef2": "",
             "locator": "IO85iu",
@@ -98370,6 +98378,14 @@
             "tagCount": 0
           },
           "activations": [
+            {
+              "id": 1166069,
+              "userId": 98746,
+              "activationDate": "2026-02-07T00:00:00Z",
+              "ownCallsign": "MM7TXZ",
+              "qsos": 11,
+              "Callsign": "MM7TXZ"
+            },
             {
               "id": 1158336,
               "userId": 73456,
@@ -99512,9 +99528,9 @@
             "points": 1,
             "altM": 493,
             "altFt": 1617,
-            "activationCount": 102,
-            "activationCall": "MM9ROS/P",
-            "activationDate": "2025-12-26T00:00:00Z",
+            "activationCount": 103,
+            "activationCall": "MM7TXZ",
+            "activationDate": "2026-02-08T00:00:00Z",
             "gridRef1": "NT 227661",
             "gridRef2": "",
             "locator": "IO85jv",
@@ -99530,6 +99546,14 @@
             "tagCount": 0
           },
           "activations": [
+            {
+              "id": 1166073,
+              "userId": 98746,
+              "activationDate": "2026-02-08T00:00:00Z",
+              "ownCallsign": "MM7TXZ",
+              "qsos": 11,
+              "Callsign": "MM7TXZ"
+            },
             {
               "id": 1152553,
               "userId": 103898,
