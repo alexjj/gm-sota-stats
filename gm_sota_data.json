@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-11T04:24:05+00:00Z",
+  "generated_at": "2026-02-12T04:16:26+00:00Z",
   "association": "GM",
   "regions": {
     "CS": {
@@ -17398,7 +17398,7 @@
             "altM": 317,
             "altFt": 1040,
             "activationCount": 21,
-            "activationCall": "GM5ALX/P",
+            "activationCall": "MM0EFI/P",
             "activationDate": "2026-01-26T00:00:00Z",
             "gridRef1": "NO 050418",
             "gridRef2": "",
@@ -17416,20 +17416,20 @@
           },
           "activations": [
             {
-              "id": 1162752,
-              "userId": 46844,
-              "activationDate": "2026-01-26T00:00:00Z",
-              "ownCallsign": "MM0EFI/P",
-              "qsos": 8,
-              "Callsign": "MM0EFI"
-            },
-            {
               "id": 1162758,
               "userId": 94131,
               "activationDate": "2026-01-26T00:00:00Z",
               "ownCallsign": "GM5ALX/P",
               "qsos": 8,
               "Callsign": "GM5ALX"
+            },
+            {
+              "id": 1166555,
+              "userId": 46844,
+              "activationDate": "2026-01-26T00:00:00Z",
+              "ownCallsign": "MM0EFI/P",
+              "qsos": 8,
+              "Callsign": "MM0EFI"
             },
             {
               "id": 1144051,
@@ -84563,7 +84563,7 @@
               "Callsign": "GM5ALX"
             },
             {
-              "id": 1162753,
+              "id": 1166556,
               "userId": 46844,
               "activationDate": "2026-01-26T00:00:00Z",
               "ownCallsign": "MM0EFI/P",
@@ -84851,7 +84851,7 @@
               "Callsign": "GM5ALX"
             },
             {
-              "id": 1162754,
+              "id": 1166557,
               "userId": 46844,
               "activationDate": "2026-01-26T00:00:00Z",
               "ownCallsign": "MM0EFI/P",
