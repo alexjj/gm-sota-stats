@@ -43,7 +43,7 @@ def fetch_activator_roll():
 
 
 # ----------------------
-# Fetch GW structure
+# Fetch GM structure
 # ----------------------
 
 def fetch_regions():
@@ -65,7 +65,7 @@ def fetch_activations(summit_code):
 def main():
     activator_lookup = fetch_activator_roll()
 
-    print("Fetching GW regions...")
+    print("Fetching GM regions...")
     regions = fetch_regions()
 
     output = {
