@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-19T04:12:22+00:00Z",
+  "generated_at": "2026-02-20T04:08:00+00:00Z",
   "association": "GM",
   "regions": {
     "CS": {
@@ -27510,9 +27510,9 @@
             "points": 2,
             "altM": 601,
             "altFt": 1972,
-            "activationCount": 18,
-            "activationCall": "GM5ALX/P",
-            "activationDate": "2025-12-11T00:00:00Z",
+            "activationCount": 19,
+            "activationCall": "MM0EFI/P",
+            "activationDate": "2026-02-19T00:00:00Z",
             "gridRef1": "NO 328910",
             "gridRef2": "",
             "locator": "IO87ka",
@@ -27528,6 +27528,14 @@
             "tagCount": 0
           },
           "activations": [
+            {
+              "id": 1168141,
+              "userId": 46844,
+              "activationDate": "2026-02-19T00:00:00Z",
+              "ownCallsign": "MM0EFI/P",
+              "qsos": 43,
+              "Callsign": "MM0EFI"
+            },
             {
               "id": 1149130,
               "userId": 94131,
