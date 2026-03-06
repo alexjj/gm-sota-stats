@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-05T04:05:09+00:00Z",
+  "generated_at": "2026-03-06T04:02:44+00:00Z",
   "association": "GM",
   "regions": {
     "CS": {
@@ -24534,9 +24534,9 @@
             "points": 4,
             "altM": 744,
             "altFt": 2441,
-            "activationCount": 39,
-            "activationCall": "GM4KNU/P",
-            "activationDate": "2026-02-23T00:00:00Z",
+            "activationCount": 40,
+            "activationCall": "GM4IPB",
+            "activationDate": "2026-03-05T00:00:00Z",
             "gridRef1": "NO 167629",
             "gridRef2": "",
             "locator": "IO86hs",
@@ -24552,6 +24552,14 @@
             "tagCount": 0
           },
           "activations": [
+            {
+              "id": 1172055,
+              "userId": 9888,
+              "activationDate": "2026-03-05T00:00:00Z",
+              "ownCallsign": "GM4IPB",
+              "qsos": 8,
+              "Callsign": "G4IPB"
+            },
             {
               "id": 1169748,
               "userId": 96788,
@@ -76304,7 +76312,7 @@
               "activationDate": "2023-04-29T00:00:00Z",
               "ownCallsign": "MM0XET",
               "qsos": 17,
-              "Callsign": "MM0XET"
+              "Callsign": "GM5TAY"
             },
             {
               "id": 774127,
@@ -90488,7 +90496,7 @@
               "activationDate": "2024-07-18T00:00:00Z",
               "ownCallsign": "MM0XET/P",
               "qsos": 6,
-              "Callsign": "MM0XET"
+              "Callsign": "GM5TAY"
             },
             {
               "id": 758536,
@@ -95656,7 +95664,7 @@
               "activationDate": "2019-12-24T00:00:00Z",
               "ownCallsign": "MM0XET/P",
               "qsos": 22,
-              "Callsign": "MM0XET"
+              "Callsign": "GM5TAY"
             },
             {
               "id": 402872,
@@ -99400,7 +99408,7 @@
             "points": 1,
             "altM": 497,
             "altFt": 1631,
-            "activationCount": 31,
+            "activationCount": 32,
             "activationCall": "MM7WWH",
             "activationDate": "2025-09-06T00:00:00Z",
             "gridRef1": "NO 032073",
@@ -99448,6 +99456,14 @@
               "activationDate": "2025-06-08T00:00:00Z",
               "ownCallsign": "MM0GLM/P",
               "qsos": 7,
+              "Callsign": "MM0GLM"
+            },
+            {
+              "id": 1172037,
+              "userId": 3993,
+              "activationDate": "2025-06-01T00:00:00Z",
+              "ownCallsign": "MM0GLM/P",
+              "qsos": 8,
               "Callsign": "MM0GLM"
             },
             {
@@ -104248,7 +104264,7 @@
               "activationDate": "2023-01-14T00:00:00Z",
               "ownCallsign": "MM0XET/P",
               "qsos": 15,
-              "Callsign": "MM0XET"
+              "Callsign": "GM5TAY"
             },
             {
               "id": 718214,
@@ -104304,7 +104320,7 @@
               "activationDate": "2020-10-10T00:00:00Z",
               "ownCallsign": "MM0XET/P",
               "qsos": 10,
-              "Callsign": "MM0XET"
+              "Callsign": "GM5TAY"
             },
             {
               "id": 454827,
@@ -104352,7 +104368,7 @@
               "activationDate": "2019-01-06T00:00:00Z",
               "ownCallsign": "MM0XET/P",
               "qsos": 29,
-              "Callsign": "MM0XET"
+              "Callsign": "GM5TAY"
             },
             {
               "id": 333981,
@@ -111360,7 +111376,7 @@
               "activationDate": "2021-08-15T00:00:00Z",
               "ownCallsign": "MM0XET/P",
               "qsos": 15,
-              "Callsign": "MM0XET"
+              "Callsign": "GM5TAY"
             },
             {
               "id": 553253,
@@ -114016,7 +114032,7 @@
               "activationDate": "2019-01-13T00:00:00Z",
               "ownCallsign": "MM0XET/P",
               "qsos": 16,
-              "Callsign": "MM0XET"
+              "Callsign": "GM5TAY"
             },
             {
               "id": 326258,
@@ -123184,7 +123200,7 @@
               "activationDate": "2019-02-17T00:00:00Z",
               "ownCallsign": "MM0XET/P",
               "qsos": 6,
-              "Callsign": "MM0XET"
+              "Callsign": "GM5TAY"
             },
             {
               "id": 360403,
@@ -123584,7 +123600,7 @@
               "activationDate": "2019-01-20T00:00:00Z",
               "ownCallsign": "MM0XET/P",
               "qsos": 7,
-              "Callsign": "MM0XET"
+              "Callsign": "GM5TAY"
             },
             {
               "id": 340254,
