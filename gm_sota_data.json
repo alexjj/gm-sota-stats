@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T04:57:45+00:00Z",
+  "generated_at": "2026-07-26T05:23:48+00:00Z",
   "association": "GM",
   "regions": {
     "CS": {
@@ -75257,64 +75257,7 @@
             "restrictionList": null,
             "tagCount": 0
           },
-          "activations": [
-            {
-              "id": 525313,
-              "userId": 3273,
-              "activationDate": "2021-04-16T00:00:00Z",
-              "ownCallsign": "MM0YCJ/P",
-              "qsos": 8,
-              "Callsign": "MM0YCJ"
-            },
-            {
-              "id": 214900,
-              "userId": 3993,
-              "activationDate": "2016-05-28T00:00:00Z",
-              "ownCallsign": "MM0GLM/P",
-              "qsos": 4,
-              "Callsign": "MM0GLM"
-            },
-            {
-              "id": 212981,
-              "userId": 130,
-              "activationDate": "2016-05-09T00:00:00Z",
-              "ownCallsign": "GM7PKT/P",
-              "qsos": 7,
-              "Callsign": "GM7PKT"
-            },
-            {
-              "id": 192315,
-              "userId": 3993,
-              "activationDate": "2015-09-20T00:00:00Z",
-              "ownCallsign": "MM0GLM/P",
-              "qsos": 10,
-              "Callsign": "MM0GLM"
-            },
-            {
-              "id": 145948,
-              "userId": 1414,
-              "activationDate": "2014-05-11T00:00:00Z",
-              "ownCallsign": "MM3WJZ/P",
-              "qsos": 5,
-              "Callsign": "MM3WJZ"
-            },
-            {
-              "id": 90433,
-              "userId": 82,
-              "activationDate": "2012-05-19T00:00:00Z",
-              "ownCallsign": "GM4COX",
-              "qsos": 11,
-              "Callsign": "GM4COX"
-            },
-            {
-              "id": 39342,
-              "userId": 72,
-              "activationDate": "2008-12-30T00:00:00Z",
-              "ownCallsign": "MM1BJP",
-              "qsos": 22,
-              "Callsign": "MM1BJP"
-            }
-          ]
+          "activations": []
         },
         "GM/SS-045": {
           "summit": {
@@ -127672,9 +127615,9 @@
             "points": 1,
             "altM": 187,
             "altFt": 614,
-            "activationCount": 82,
-            "activationCall": "GM7UFO/P",
-            "activationDate": "2026-06-30T00:00:00Z",
+            "activationCount": 83,
+            "activationCall": "MM9OCC",
+            "activationDate": "2026-07-23T00:00:00Z",
             "gridRef1": "NT 556842",
             "gridRef2": "",
             "locator": "IO86pb",
@@ -127690,6 +127633,14 @@
             "tagCount": 0
           },
           "activations": [
+            {
+              "id": 1221920,
+              "userId": 1483,
+              "activationDate": "2026-07-23T00:00:00Z",
+              "ownCallsign": "MM9OCC",
+              "qsos": 8,
+              "Callsign": "2M0OCC"
+            },
             {
               "id": 1206289,
               "userId": 94131,
