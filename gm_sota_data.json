@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T05:19:46+00:00Z",
+  "generated_at": "2026-08-02T05:19:25+00:00Z",
   "association": "GM",
   "regions": {
     "CS": {
@@ -47495,48 +47495,7 @@
             "restrictionList": null,
             "tagCount": 0
           },
-          "activations": [
-            {
-              "id": 824661,
-              "userId": 56327,
-              "activationDate": "2023-06-17T00:00:00Z",
-              "ownCallsign": "2M1GPR/P",
-              "qsos": 5,
-              "Callsign": "2M1GPR"
-            },
-            {
-              "id": 652716,
-              "userId": 6790,
-              "activationDate": "2022-06-07T00:00:00Z",
-              "ownCallsign": "GM0GAV/P",
-              "qsos": 22,
-              "Callsign": "GM3GAV"
-            },
-            {
-              "id": 91309,
-              "userId": 1414,
-              "activationDate": "2012-06-03T00:00:00Z",
-              "ownCallsign": "MM3WJZ/P",
-              "qsos": 4,
-              "Callsign": "MM3WJZ"
-            },
-            {
-              "id": 73106,
-              "userId": 3273,
-              "activationDate": "2011-07-03T00:00:00Z",
-              "ownCallsign": "MM6YCJ/P",
-              "qsos": 5,
-              "Callsign": "MM0YCJ"
-            },
-            {
-              "id": 59652,
-              "userId": 887,
-              "activationDate": "2010-09-03T00:00:00Z",
-              "ownCallsign": "GM0UDL/P",
-              "qsos": 10,
-              "Callsign": "GM0UDL"
-            }
-          ]
+          "activations": []
         },
         "GM/SI-005": {
           "summit": {
