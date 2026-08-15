@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T03:57:21+00:00Z",
+  "generated_at": "2026-08-15T02:44:07+00:00Z",
   "association": "GM",
   "regions": {
     "CS": {
@@ -20591,7 +20591,88 @@
             "restrictionList": null,
             "tagCount": 0
           },
-          "activations": []
+          "activations": [
+            {
+              "id": 1108794,
+              "userId": 18213,
+              "activationDate": "2025-07-25T00:00:00Z",
+              "ownCallsign": "MM0VPM/P",
+              "qsos": 6,
+              "Callsign": "MM0VPM"
+            },
+            {
+              "id": 1096530,
+              "userId": 46844,
+              "activationDate": "2025-06-17T00:00:00Z",
+              "ownCallsign": "MM0EFI/P",
+              "qsos": 8,
+              "Callsign": "MM0EFI"
+            },
+            {
+              "id": 1005218,
+              "userId": 94131,
+              "activationDate": "2024-11-13T00:00:00Z",
+              "ownCallsign": "GM5ALX/P",
+              "qsos": 14,
+              "Callsign": "GM5ALX"
+            },
+            {
+              "id": 796074,
+              "userId": 6790,
+              "activationDate": "2023-05-07T00:00:00Z",
+              "ownCallsign": "GM0GAV/P",
+              "qsos": 32,
+              "Callsign": "GM3GAV"
+            },
+            {
+              "id": 682344,
+              "userId": 46844,
+              "activationDate": "2022-08-27T00:00:00Z",
+              "ownCallsign": "MM0EFI/P",
+              "qsos": 19,
+              "Callsign": "MM0EFI"
+            },
+            {
+              "id": 552301,
+              "userId": 46844,
+              "activationDate": "2021-07-19T00:00:00Z",
+              "ownCallsign": "MM0EFI/P",
+              "qsos": 21,
+              "Callsign": "MM0EFI"
+            },
+            {
+              "id": 121943,
+              "userId": 773,
+              "activationDate": "2013-08-10T00:00:00Z",
+              "ownCallsign": "MM0DHY/P",
+              "qsos": 7,
+              "Callsign": "MM0DHY"
+            },
+            {
+              "id": 111289,
+              "userId": 3273,
+              "activationDate": "2013-04-20T00:00:00Z",
+              "ownCallsign": "MM0YCJ/P",
+              "qsos": 6,
+              "Callsign": "MM0YCJ"
+            },
+            {
+              "id": 98479,
+              "userId": 1003,
+              "activationDate": "2012-09-08T00:00:00Z",
+              "ownCallsign": "MM0ROV/P",
+              "qsos": 6,
+              "Callsign": "MM0ROV"
+            },
+            {
+              "id": 7535,
+              "userId": 52,
+              "activationDate": "2005-06-04T00:00:00Z",
+              "ownCallsign": "GM4TOE/P",
+              "qsos": 11,
+              "Callsign": "GM4TOE"
+            }
+          ]
         },
         "GM/ES-012": {
           "summit": {
@@ -66311,11 +66392,11 @@
           },
           "activations": [
             {
-              "id": 1231956,
+              "id": 1235913,
               "userId": 18213,
               "activationDate": "2026-08-11T00:00:00Z",
               "ownCallsign": "MM0VPM/P",
-              "qsos": 13,
+              "qsos": 14,
               "Callsign": "MM0VPM"
             },
             {
@@ -96951,9 +97032,9 @@
             "points": 2,
             "altM": 535,
             "altFt": 1755,
-            "activationCount": 43,
-            "activationCall": "GM4KNU/P",
-            "activationDate": "2026-02-18T00:00:00Z",
+            "activationCount": 44,
+            "activationCall": "G0VZM/P",
+            "activationDate": "2026-08-14T00:00:00Z",
             "gridRef1": "NT 581617",
             "gridRef2": "",
             "locator": "IO85pu",
@@ -96969,6 +97050,14 @@
             "tagCount": 0
           },
           "activations": [
+            {
+              "id": 1235888,
+              "userId": 100325,
+              "activationDate": "2026-08-14T00:00:00Z",
+              "ownCallsign": "G0VZM/P",
+              "qsos": 15,
+              "Callsign": "G0VZM"
+            },
             {
               "id": 1168077,
               "userId": 96788,
@@ -105904,7 +105993,104 @@
             "restrictionList": null,
             "tagCount": 0
           },
-          "activations": []
+          "activations": [
+            {
+              "id": 1190483,
+              "userId": 2771,
+              "activationDate": "2026-05-09T00:00:00Z",
+              "ownCallsign": "MM0JLA/P",
+              "qsos": 6,
+              "Callsign": "M0JLA"
+            },
+            {
+              "id": 1194300,
+              "userId": 3192,
+              "activationDate": "2026-05-09T00:00:00Z",
+              "ownCallsign": "MM6BWA/P",
+              "qsos": 13,
+              "Callsign": "M6BWA"
+            },
+            {
+              "id": 588173,
+              "userId": 1126,
+              "activationDate": "2021-12-21T00:00:00Z",
+              "ownCallsign": "MM3TMX/P",
+              "qsos": 39,
+              "Callsign": "M3TMX"
+            },
+            {
+              "id": 566326,
+              "userId": 82,
+              "activationDate": "2021-05-31T00:00:00Z",
+              "ownCallsign": "GM4COX/P",
+              "qsos": 5,
+              "Callsign": "GM4COX"
+            },
+            {
+              "id": 456242,
+              "userId": 540,
+              "activationDate": "2020-09-09T00:00:00Z",
+              "ownCallsign": "GM4OBK/P",
+              "qsos": 20,
+              "Callsign": "G4OBK"
+            },
+            {
+              "id": 440621,
+              "userId": 2502,
+              "activationDate": "2020-08-07T00:00:00Z",
+              "ownCallsign": "GM4VFL/P",
+              "qsos": 10,
+              "Callsign": "G4VFL"
+            },
+            {
+              "id": 403538,
+              "userId": 1058,
+              "activationDate": "2019-12-31T00:00:00Z",
+              "ownCallsign": "MS0TA/P",
+              "qsos": 23,
+              "Callsign": "GM4LLD"
+            },
+            {
+              "id": 170472,
+              "userId": 1075,
+              "activationDate": "2015-02-15T00:00:00Z",
+              "ownCallsign": "2M0NCM/P",
+              "qsos": 16,
+              "Callsign": "2M0NCM"
+            },
+            {
+              "id": 147959,
+              "userId": 760,
+              "activationDate": "2014-06-01T00:00:00Z",
+              "ownCallsign": "GM4MD/P",
+              "qsos": 29,
+              "Callsign": "G4MD"
+            },
+            {
+              "id": 148278,
+              "userId": 854,
+              "activationDate": "2014-06-01T00:00:00Z",
+              "ownCallsign": "GM4OIG/P",
+              "qsos": 31,
+              "Callsign": "G4OIG"
+            },
+            {
+              "id": 105026,
+              "userId": 82,
+              "activationDate": "2012-12-26T00:00:00Z",
+              "ownCallsign": "GM4COX",
+              "qsos": 23,
+              "Callsign": "GM4COX"
+            },
+            {
+              "id": 58913,
+              "userId": 2964,
+              "activationDate": "2010-08-15T00:00:00Z",
+              "ownCallsign": "2M0YET/P",
+              "qsos": 4,
+              "Callsign": "MM0YET"
+            }
+          ]
         },
         "GM/SS-187": {
           "summit": {
@@ -106374,9 +106560,9 @@
             "points": 1,
             "altM": 456,
             "altFt": 1496,
-            "activationCount": 32,
-            "activationCall": "MM1ROS/P",
-            "activationDate": "2026-08-10T00:00:00Z",
+            "activationCount": 33,
+            "activationCall": "MM0GLM/P",
+            "activationDate": "2026-08-14T00:00:00Z",
             "gridRef1": "NO 019037",
             "gridRef2": "",
             "locator": "IO86ff",
@@ -106392,6 +106578,14 @@
             "tagCount": 0
           },
           "activations": [
+            {
+              "id": 1235909,
+              "userId": 3993,
+              "activationDate": "2026-08-14T00:00:00Z",
+              "ownCallsign": "MM0GLM/P",
+              "qsos": 9,
+              "Callsign": "MM0GLM"
+            },
             {
               "id": 1230682,
               "userId": 103898,
@@ -157320,7 +157514,7 @@
             "points": 1,
             "altM": 288,
             "altFt": 945,
-            "activationCount": 58,
+            "activationCount": 59,
             "activationCall": "MM/HB9HXG/P",
             "activationDate": "2026-07-16T00:00:00Z",
             "gridRef1": "NN 090713",
@@ -157345,6 +157539,14 @@
               "ownCallsign": "MM/HB9HXG/P",
               "qsos": 5,
               "Callsign": "HB9HXG"
+            },
+            {
+              "id": 1235768,
+              "userId": 2113,
+              "activationDate": "2025-12-30T00:00:00Z",
+              "ownCallsign": "GM4ZOI/P",
+              "qsos": 49,
+              "Callsign": "G4ZOI"
             },
             {
               "id": 1152257,
