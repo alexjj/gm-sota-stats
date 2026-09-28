@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T07:22:53+00:00Z",
+  "generated_at": "2026-09-28T08:00:58+00:00Z",
   "association": "GM",
   "regions": {
     "CS": {
@@ -143769,32 +143769,7 @@
             "restrictionList": null,
             "tagCount": 0
           },
-          "activations": [
-            {
-              "id": 930196,
-              "userId": 6790,
-              "activationDate": "2024-04-28T00:00:00Z",
-              "ownCallsign": "GM0GAV/P",
-              "qsos": 42,
-              "Callsign": "GM3GAV"
-            },
-            {
-              "id": 215566,
-              "userId": 3273,
-              "activationDate": "2016-06-04T00:00:00Z",
-              "ownCallsign": "MM0YCJ/P",
-              "qsos": 7,
-              "Callsign": "MM0YCJ"
-            },
-            {
-              "id": 56121,
-              "userId": 2823,
-              "activationDate": "2010-06-22T00:00:00Z",
-              "ownCallsign": "2M1GYX",
-              "qsos": 1,
-              "Callsign": "MM0HAI"
-            }
-          ]
+          "activations": []
         },
         "GM/WS-108": {
           "summit": {
@@ -158880,9 +158855,9 @@
             "points": 1,
             "altM": 288,
             "altFt": 945,
-            "activationCount": 59,
-            "activationCall": "MM/HB9HXG/P",
-            "activationDate": "2026-07-16T00:00:00Z",
+            "activationCount": 60,
+            "activationCall": "MM1TJM/P",
+            "activationDate": "2026-09-27T00:00:00Z",
             "gridRef1": "NN 090713",
             "gridRef2": "",
             "locator": "IO76kt",
@@ -158898,6 +158873,14 @@
             "tagCount": 0
           },
           "activations": [
+            {
+              "id": 1302994,
+              "userId": 103031,
+              "activationDate": "2026-09-27T00:00:00Z",
+              "ownCallsign": "MM1TJM/P",
+              "qsos": 4,
+              "Callsign": "M1TJM"
+            },
             {
               "id": 1222321,
               "userId": 78317,
