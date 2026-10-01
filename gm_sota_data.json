@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T07:44:56+00:00Z",
+  "generated_at": "2026-10-01T08:03:53+00:00Z",
   "association": "GM",
   "regions": {
     "CS": {
@@ -42779,7 +42779,16 @@
             "restrictionList": null,
             "tagCount": 0
           },
-          "activations": []
+          "activations": [
+            {
+              "id": 244827,
+              "userId": 760,
+              "activationDate": "2017-04-10T00:00:00Z",
+              "ownCallsign": "GM4MD/P",
+              "qsos": 19,
+              "Callsign": "G4MD"
+            }
+          ]
         },
         "GM/NS-089": {
           "summit": {
@@ -55126,24 +55135,7 @@
             "restrictionList": null,
             "tagCount": 0
           },
-          "activations": [
-            {
-              "id": 73945,
-              "userId": 1563,
-              "activationDate": "2011-06-13T00:00:00Z",
-              "ownCallsign": "MM0YHB/P",
-              "qsos": 11,
-              "Callsign": "M0YHB"
-            },
-            {
-              "id": 74051,
-              "userId": 1234,
-              "activationDate": "2011-06-13T00:00:00Z",
-              "ownCallsign": "GM6WRW/P",
-              "qsos": 51,
-              "Callsign": "G6WRW"
-            }
-          ]
+          "activations": []
         },
         "GM/SI-097": {
           "summit": {
@@ -57238,7 +57230,40 @@
             "restrictionList": null,
             "tagCount": 0
           },
-          "activations": []
+          "activations": [
+            {
+              "id": 73907,
+              "userId": 82,
+              "activationDate": "2011-05-31T00:00:00Z",
+              "ownCallsign": "GM4COX",
+              "qsos": 9,
+              "Callsign": "GM4COX"
+            },
+            {
+              "id": 63610,
+              "userId": 72,
+              "activationDate": "2010-06-02T00:00:00Z",
+              "ownCallsign": "MM1BJP",
+              "qsos": 14,
+              "Callsign": "MM1BJP"
+            },
+            {
+              "id": 43406,
+              "userId": 1786,
+              "activationDate": "2009-05-22T00:00:00Z",
+              "ownCallsign": "2M0OVV",
+              "qsos": 4,
+              "Callsign": "2M0OVV"
+            },
+            {
+              "id": 43709,
+              "userId": 392,
+              "activationDate": "2009-05-22T00:00:00Z",
+              "ownCallsign": "GM0CQK/P",
+              "qsos": 8,
+              "Callsign": "G0CQK"
+            }
+          ]
         },
         "GM/SI-128": {
           "summit": {
@@ -86009,14 +86034,6 @@
               "Callsign": "GM7GAX"
             },
             {
-              "id": 170186,
-              "userId": 5493,
-              "activationDate": "2015-02-05T00:00:00Z",
-              "ownCallsign": "2M0NON/P",
-              "qsos": 4,
-              "Callsign": "M0PYG"
-            },
-            {
               "id": 169309,
               "userId": 8011,
               "activationDate": "2015-02-05T00:00:00Z",
@@ -86031,6 +86048,14 @@
               "ownCallsign": "GM4OBK/P",
               "qsos": 72,
               "Callsign": "G4OBK"
+            },
+            {
+              "id": 170186,
+              "userId": 5493,
+              "activationDate": "2015-02-05T00:00:00Z",
+              "ownCallsign": "2M0NON/P",
+              "qsos": 4,
+              "Callsign": "M0PYG"
             },
             {
               "id": 114643,
@@ -151023,7 +151048,24 @@
             "restrictionList": null,
             "tagCount": 0
           },
-          "activations": []
+          "activations": [
+            {
+              "id": 960094,
+              "userId": 3273,
+              "activationDate": "2024-07-28T00:00:00Z",
+              "ownCallsign": "MM0YCJ/P",
+              "qsos": 12,
+              "Callsign": "MM0YCJ"
+            },
+            {
+              "id": 127571,
+              "userId": 82,
+              "activationDate": "2013-03-30T00:00:00Z",
+              "ownCallsign": "GM4COX",
+              "qsos": 6,
+              "Callsign": "GM4COX"
+            }
+          ]
         },
         "GM/WS-223": {
           "summit": {
