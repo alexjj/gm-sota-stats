@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T06:52:17+00:00Z",
+  "generated_at": "2026-10-23T06:46:30+00:00Z",
   "association": "GM",
   "regions": {
     "CS": {
@@ -127260,8 +127260,8 @@
             "points": 1,
             "altM": 251,
             "altFt": 823,
-            "activationCount": 100,
-            "activationCall": "MM0EFI/P",
+            "activationCount": 101,
+            "activationCall": "MM7MOQ ",
             "activationDate": "2026-10-20T00:00:00Z",
             "gridRef1": "NT 275729",
             "gridRef2": "",
@@ -127285,6 +127285,14 @@
               "ownCallsign": "MM0EFI/P",
               "qsos": 4,
               "Callsign": "MM0EFI"
+            },
+            {
+              "id": 1315329,
+              "userId": 105869,
+              "activationDate": "2026-10-20T00:00:00Z",
+              "ownCallsign": "MM7MOQ ",
+              "qsos": 4,
+              "Callsign": "MM7MOQ"
             },
             {
               "id": 1306149,
