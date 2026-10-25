@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T06:41:52+00:00Z",
+  "generated_at": "2026-10-25T07:07:36+00:00Z",
   "association": "GM",
   "regions": {
     "CS": {
@@ -57351,40 +57351,7 @@
             "restrictionList": null,
             "tagCount": 0
           },
-          "activations": [
-            {
-              "id": 350709,
-              "userId": 130,
-              "activationDate": "2019-04-19T00:00:00Z",
-              "ownCallsign": "GM7PKT/P",
-              "qsos": 10,
-              "Callsign": "GM7PKT"
-            },
-            {
-              "id": 222608,
-              "userId": 2438,
-              "activationDate": "2016-06-20T00:00:00Z",
-              "ownCallsign": "GM4WSB/P",
-              "qsos": 42,
-              "Callsign": "anon22082801"
-            },
-            {
-              "id": 213682,
-              "userId": 760,
-              "activationDate": "2016-05-19T00:00:00Z",
-              "ownCallsign": "GM4MD/P",
-              "qsos": 21,
-              "Callsign": "G4MD"
-            },
-            {
-              "id": 214157,
-              "userId": 854,
-              "activationDate": "2016-05-19T00:00:00Z",
-              "ownCallsign": "GM4OIG/P",
-              "qsos": 20,
-              "Callsign": "G4OIG"
-            }
-          ]
+          "activations": []
         },
         "GM/SI-125": {
           "summit": {
