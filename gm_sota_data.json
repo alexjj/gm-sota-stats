@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T07:14:49+00:00Z",
+  "generated_at": "2026-10-27T07:05:32+00:00Z",
   "association": "GM",
   "regions": {
     "CS": {
@@ -80944,7 +80944,7 @@
             "points": 4,
             "altM": 711,
             "altFt": 2333,
-            "activationCount": 168,
+            "activationCount": 169,
             "activationCall": "GM7EEY",
             "activationDate": "2026-08-16T00:00:00Z",
             "gridRef1": "NS 953343",
@@ -80977,6 +80977,14 @@
               "ownCallsign": "MM6DQG",
               "qsos": 11,
               "Callsign": "MM6DQG"
+            },
+            {
+              "id": 1316474,
+              "userId": 82,
+              "activationDate": "2026-07-17T00:00:00Z",
+              "ownCallsign": "GM4COX/P",
+              "qsos": 18,
+              "Callsign": "GM4COX"
             },
             {
               "id": 1218428,
