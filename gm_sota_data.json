@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T07:45:21+00:00Z",
+  "generated_at": "2026-10-29T07:51:14+00:00Z",
   "association": "GM",
   "regions": {
     "CS": {
@@ -147969,7 +147969,24 @@
             "restrictionList": null,
             "tagCount": 0
           },
-          "activations": []
+          "activations": [
+            {
+              "id": 175495,
+              "userId": 3273,
+              "activationDate": "2015-04-18T00:00:00Z",
+              "ownCallsign": "MM0YCJ/P",
+              "qsos": 12,
+              "Callsign": "MM0YCJ"
+            },
+            {
+              "id": 16253,
+              "userId": 130,
+              "activationDate": "2006-10-15T00:00:00Z",
+              "ownCallsign": "GM7PKT/P",
+              "qsos": 19,
+              "Callsign": "GM7PKT"
+            }
+          ]
         },
         "GM/WS-165": {
           "summit": {
